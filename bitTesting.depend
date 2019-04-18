@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1524751443 source:d:\programs\programe saves\save code blocks\saves\bittesting\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1525043787 source:c:\users\predatorel\desktop\bittesting\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1525043787 source:c:\users\predatorel\desktop\c\bittesting\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
